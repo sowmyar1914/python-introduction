@@ -20,7 +20,7 @@ for details in inventory.values():
     total_value += details["price"] * details["quantity"]
 print(f"\nTotal Inventory Value: ${total_value:.2f}")
 # writting the code for looking up a product in the inventory
-product_lookup = input("\nEnter the product name to look up: ").lower()
+product_lookup = input("\nEnter the product name to look up: ").lower().strip()
 product_details = inventory.get(product_lookup)
 if product_details:
     price = product_details["price"]
@@ -34,7 +34,7 @@ else:
     print(f"\nProduct '{product_lookup}' not found in the inventory.")
 
 #updating the product quantity 
-update_product = input("\nEnter the product name to update quantity: ").lower()
+update_product = input("\nEnter the product name to update quantity: ").lower().strip()
 product_to_update = inventory.get(update_product)
 if product_to_update:
     print(f"Current quantity: {product_to_update['quantity']}")
