@@ -1,0 +1,201 @@
+employee_id,name,department,office_location,salary,years_experience,satisfaction_score,survey_date,comments
+E001,Asha Chen,Engineering,New York,"$76,500",23,2,2026-09-18,
+E002,ben chen,engineering,new york,52000,2,4,09/04/2026,More training would help.
+E003,CLARA CHEN,ENGINEERING,NYC,119500,22,9,"Sep 26, 2026",Onboarding was smooth.
+E004,  Diego Chen  ,Eng, New York ,145000,22,7,09-21-2026,We need clearer promotion criteria.
+E005,Farah Chen,Human Resources,Chicago,"$75,500",3,2,2026-10-14,
+E006,Grace Chen,Engineering,Minneapolis,92000,25,1,10/04/2026,"Flexible hours, especially on Fridays, are helpful."
+E007,Hana Chen,Operations,Austin,118500,26,10,"Oct 08, 2026",We need clearer promotion criteria.
+E008,ivan chen,Operations,Chicago,138000,1,4,09-09-2026,"Flexible hours, especially on Fridays, are helpful."
+E009,JIA CHEN,Engineering,Chicago,"$60,500",8,8,2026-10-19,We need clearer promotion criteria.
+E010,  Kai Chen  ,finance,Minneapolis,133500,22,2,10/05/2026,Supportive team.
+E011,Leila Chen,Operations,Chicago,68500,12,5,"Oct 30, 2026",More training would help.
+E012,Maya Chen,Human Resources,New York,77000,25,6,09-05-2026,Onboarding was smooth.
+E013,Noah Chen,Human Resources,chicago,,12,8,2026-11-03,Supportive team.
+E014,omar chen,Human Resources,Chicago,79500,17,5,11/11/2026,Onboarding was smooth.
+E015,PRIYA CHEN,Operations,Austin,94000,4,9,"Sep 29, 2026",Fewer meetings would help me focus.
+E016,  Quinn Chen  ,Engineering,new york,128000,25,7,09-21-2026,
+E017,Ravi Chen,Marketing,Austin,"$124,000",16,5,2026-10-30,
+E018,Sara Chen,Engineering,Minneapolis,146000,,5,10/14/2026,Onboarding was smooth.
+E019,Theo Chen,finance,NYC,112000,16,2,"Sep 23, 2026","Flexible hours, especially on Fridays, are helpful."
+E020,zoe chen,Operations,Chicago,67500,24,,10-18-2026,
+E021,ASHA DAVIS,Operations,Minneapolis,"$110,500",3,6,2026-09-03,"Flexible hours, especially on Fridays, are helpful."
+E022,  Ben Davis  ,Finance,Chicago,58500,26,2,11/02/2026,Supportive team.
+E023,Clara Davis,Finance,Austin,118000,8,9,"Sep 22, 2026",Onboarding was smooth.
+E024,Diego Davis,Finance,Chicago,-42000,12,6,10-10-2026,Fewer meetings would help me focus.
+E025,Farah Davis,OPERATIONS,new york,"$76,500",10,1,2026-09-09,More training would help.
+E026,grace davis,Operations,Chicago,48500,22,1,09/10/2026,More training would help.
+E027,HANA DAVIS,Engineering,New York,90000,16,4,"Sep 10, 2026","Flexible hours, especially on Fridays, are helpful."
+E028,  Ivan Davis  ,Marketing,chicago,79000,25,7,10-31-2026,More training would help.
+E029,Jia Davis,Engineering,New York,"$132,000",11,7,2026-10-26,Onboarding was smooth.
+E030,Kai Davis,Marketing,New York,134000,1,7,09/13/2026,We need clearer promotion criteria.
+E031,Leila Davis,engineering,Chicago,116500,4,7,"Oct 28, 2026",Supportive team.
+E032,maya davis,Human Resources,Austin,79500,14,0,09-10-2026,
+E033,NOAH DAVIS,Engineering,New York,"$59,500",5,7,2026-10-01,Fewer meetings would help me focus.
+E034,  Omar Davis  ,Marketing,Austin,69000,0,7,10/19/2026,"Flexible hours, especially on Fridays, are helpful."
+E035,Priya Davis,Marketing,Minneapolis,102000,21,8,"Nov 11, 2026",Supportive team.
+E036,Quinn Davis,Finance,Minneapolis,75500,18,9,09-08-2026,
+E037,Ravi Davis,Human Resources, New York ,"$112,000",5,1,2026-11-07,
+E038,sara davis,Finance,New York,124000,21,4,09/09/2026,Onboarding was smooth.
+E039,THEO DAVIS,Engineering,Chicago,122000,19,2,"Sep 06, 2026",Onboarding was smooth.
+E040,  Zoe Davis  ,OPERATIONS,Minneapolis,133500,7,5,10-11-2026,Onboarding was smooth.
+E041,Asha Garcia,Finance,Minneapolis,"$106,500",29,2,2026-10-11,
+E042,Ben Garcia,Marketing,New York,57000,6,9,11/08/2026,"Flexible hours, especially on Fridays, are helpful."
+E043,Clara Garcia,finance,new york,95000,5,8,"Oct 07, 2026","Flexible hours, especially on Fridays, are helpful."
+E044,diego garcia,Operations,New York,133000,9,2,11-10-2026,Supportive team.
+E045,FARAH GARCIA,Human Resources,New York,,4,5,2026-11-10,"Flexible hours, especially on Fridays, are helpful."
+E046,  Grace Garcia  ,Operations,Minneapolis,135500,16,8,10/04/2026,"Flexible hours, especially on Fridays, are helpful."
+E047,Hana Garcia,Engineering,New York,129000,26,5,"Oct 25, 2026",
+E048,Ivan Garcia,Engineering,Minneapolis,146500,20,5,09-17-2026,Supportive team.
+E049,Jia Garcia,marketing,New York,"$57,500",17,1,2026-09-20,We need clearer promotion criteria.
+E050,kai garcia,Operations,Chicago,103000,1,5,09/17/2026,We need clearer promotion criteria.
+E051,LEILA GARCIA,Engineering,Minneapolis,74500,21,2,"Oct 02, 2026",We need clearer promotion criteria.
+E052,  Maya Garcia  ,OPERATIONS,Chicago,68500,28,7,09-23-2026,
+E053,Noah Garcia,Finance,Minneapolis,"$148,000",25,4,2026-10-23,"Flexible hours, especially on Fridays, are helpful."
+E054,Omar Garcia,Finance,New York,96500,27,8,09/05/2026,More training would help.
+E055,Priya Garcia,finance,Minneapolis,153000,7,1,"Sep 30, 2026",More training would help.
+E056,quinn garcia,Marketing,Minneapolis,83500,30,5,09-09-2026,We need clearer promotion criteria.
+E057,RAVI GARCIA,Operations,Austin,"$134,500",10,1,2026-11-08,
+E058,  Sara Garcia  ,Human Resources,Minneapolis,61500,11,6,10/26/2026,Onboarding was smooth.
+E059,Theo Garcia,Operations,New York,97000,6,5,"Nov 13, 2026",
+E060,Zoe Garcia,Marketing,New York,114500,21,4,11-08-2026,We need clearer promotion criteria.
+E061,Asha Iyer,Marketing,Minneapolis,"$132,500",23,5,2026-09-16,"Flexible hours, especially on Fridays, are helpful."
+E062,ben iyer,Marketing,Minneapolis,"-$12,500",17,3,10/08/2026,More training would help.
+E063,CLARA IYER,Marketing,Austin,134500,19,10,"Sep 23, 2026","Flexible hours, especially on Fridays, are helpful."
+E064,  Diego Iyer  ,Marketing,Minneapolis,74500,25,10,10-26-2026,We need clearer promotion criteria.
+E065,Farah Iyer,Marketing,Austin,"$104,500",16,12,2026-09-28,Supportive team.
+E066,Grace Iyer,Engineering,Minneapolis,113500,2,4,10/13/2026,"Flexible hours, especially on Fridays, are helpful."
+E067,Hana Iyer,Finance,Chicago,53500,15,10,"Oct 02, 2026",
+E068,ivan iyer,Marketing,Austin,128500,6,7,11-13-2026,Fewer meetings would help me focus.
+E069,JIA IYER,Marketing,Chicago,"$66,500",28,2,2026-09-01,Onboarding was smooth.
+E070,  Kai Iyer  ,Finance,Austin,119000,29,2,10/02/2026,Fewer meetings would help me focus.
+E071,Leila Iyer,Finance,Austin,133000,17,10,"Nov 07, 2026",We need clearer promotion criteria.
+E072,Maya Iyer,Marketing,Austin,154000,14,3,11-10-2026,Fewer meetings would help me focus.
+E073,Noah Iyer,marketing,chicago,"$146,000",15,4,2026-11-06,"Flexible hours, especially on Fridays, are helpful."
+E074,omar iyer,Marketing,New York,139000,7,5,10/07/2026,We need clearer promotion criteria.
+E075,PRIYA IYER,Human Resources,New York,65500,7,7,"Sep 20, 2026",Supportive team.
+E076,  Quinn Iyer  ,Finance,austin,90000,14,7,11-09-2026,
+E077,Ravi Iyer,Finance,Austin,,30,1,2026-11-14,Onboarding was smooth.
+E078,Sara Iyer,Marketing,New York,93000,24,7,10/09/2026,Onboarding was smooth.
+E079,Theo Iyer,Operations,Austin,82500,15,1,"Oct 26, 2026",Onboarding was smooth.
+E080,zoe iyer,Human Resources,Austin,140500,26,8,09-22-2026,Supportive team.
+E081,ASHA KIM,Operations,New York,"$98,000",21,1,2026-11-12,
+E082,  Ben Kim  ,Marketing,Austin,54000,12,6,10/04/2026,More training would help.
+E083,Clara Kim,Marketing,Minneapolis,91000,8,7,"Oct 19, 2026","Flexible hours, especially on Fridays, are helpful."
+E084,Diego Kim,Engineering,Austin,50000,,6,11-09-2026,More training would help.
+E085,Farah Kim,Engineering,new york,"$73,500",19,3,2026-09-03,More training would help.
+E086,grace kim,Finance,Austin,133500,18,4,09/15/2026,Fewer meetings would help me focus.
+E087,HANA KIM,Human Resources,Minneapolis,69000,24,3,"Sep 15, 2026","Flexible hours, especially on Fridays, are helpful."
+E088,  Ivan Kim  ,Engineering,Minneapolis,98500,2,10,09-26-2026,More training would help.
+E089,Jia Kim,Engineering,Minneapolis,"$135,500",25,10,2026-09-16,
+E090,Kai Kim,Human Resources,Austin,132500,2,9,10/18/2026,We need clearer promotion criteria.
+E091,Leila Kim,Eng,Austin,103000,20,8,"Oct 17, 2026",Supportive team.
+E092,maya kim,Marketing,Chicago,141500,30,5,11-06-2026,Fewer meetings would help me focus.
+E093,NOAH KIM,Marketing,Austin,"$153,500",10,4,2026-10-05,
+E094,  Omar Kim  ,HR,chicago,120500,10,1,10/19/2026,Fewer meetings would help me focus.
+E095,Priya Kim,Human Resources,Chicago,110000,11,5,"Sep 28, 2026",We need clearer promotion criteria.
+E096,Quinn Kim,Human Resources,Minneapolis,119000,16,4,09-02-2026,
+E097,Ravi Kim,finance,Austin,"$136,000",20,8,2026-10-31,Fewer meetings would help me focus.
+E098,sara kim,Engineering,New York,85500,150,4,09/29/2026,"Flexible hours, especially on Fridays, are helpful."
+E099,THEO KIM,Operations,Minneapolis,108500,16,6,"Nov 10, 2026",Onboarding was smooth.
+E100,  Zoe Kim  ,OPERATIONS,Minneapolis,82500,8,4,10-10-2026,
+E101,Asha Lopez,Finance,Minneapolis,"$63,000",30,3,2026-11-08,More training would help.
+E102,Ben Lopez,Finance,Austin,83000,19,5,11/07/2026,
+E103,Clara Lopez,finance,chicago,70500,0,9,"Oct 09, 2026",Supportive team.
+E104,diego lopez,Human Resources,New York,54500,9,3,11-10-2026,Fewer meetings would help me focus.
+E105,FARAH LOPEZ,Engineering,New York,"$121,000",15,8,2026-10-07,Fewer meetings would help me focus.
+E106,  Grace Lopez  ,Human Resources,NYC,109000,26,2,09/15/2026,Onboarding was smooth.
+E107,Hana Lopez,Marketing,New York,121500,4,3,"Sep 07, 2026","Flexible hours, especially on Fridays, are helpful."
+E108,Ivan Lopez,Engineering,Chicago,63000,24,7,11-11-2026,More training would help.
+E109,Jia Lopez,OPERATIONS,austin,"$86,000",9,10,2026-10-25,
+E110,kai lopez,Operations,New York,145500,20,-2,09/27/2026,"Flexible hours, especially on Fridays, are helpful."
+E111,LEILA LOPEZ,Engineering,Chicago,78500,17,2,"Sep 23, 2026",Supportive team.
+E112,  Maya Lopez  ,Eng,austin,85000,7,5,09-05-2026,"Flexible hours, especially on Fridays, are helpful."
+E113,Noah Lopez,Marketing,New York,"$135,500",29,5,2026-09-30,More training would help.
+E114,Omar Lopez,Marketing,New York,117500,20,3,09/29/2026,"Flexible hours, especially on Fridays, are helpful."
+E115,Priya Lopez,Finance,new york,149000,19,10,"Oct 10, 2026","Flexible hours, especially on Fridays, are helpful."
+E116,quinn lopez,Marketing,New York,107500,22,7,10-09-2026,"Flexible hours, especially on Fridays, are helpful."
+E117,RAVI LOPEZ,Operations,Austin,"$104,000",19,1,2026-09-11,Onboarding was smooth.
+E118,  Sara Lopez  ,HR,New York,77000,18,1,11/13/2026,"Flexible hours, especially on Fridays, are helpful."
+E119,Theo Lopez,Operations,New York,145500,15,9,"Sep 23, 2026",Fewer meetings would help me focus.
+E120,Zoe Lopez,Human Resources,Chicago,122500,20,8,10-26-2026,
+E121,Asha Nguyen,marketing,austin,"$89,000",27,3,2026-09-14,We need clearer promotion criteria.
+E122,ben nguyen,Marketing,Austin,84500,26,,10/22/2026,
+E123,CLARA NGUYEN,Marketing,New York,88000,10,2,"Oct 03, 2026",Onboarding was smooth.
+E124,  Diego Nguyen  ,Operations,austin,54500,16,6,09-25-2026,Fewer meetings would help me focus.
+E125,Farah Nguyen,Marketing,New York,"$74,000",17,3,2026-10-05,"Flexible hours, especially on Fridays, are helpful."
+E126,Grace Nguyen,Marketing,Austin,63500,20,10,09/04/2026,More training would help.
+E127,Hana Nguyen,finance, New York ,59500,26,2,"Sep 29, 2026",Fewer meetings would help me focus.
+E128,ivan nguyen,Engineering,Chicago,111500,16,5,10-08-2026,Onboarding was smooth.
+E129,JIA NGUYEN,Marketing,Austin,"$79,000",17,3,2026-10-29,Onboarding was smooth.
+E130,  Kai Nguyen  ,Finance,NYC,146500,10,9,10/24/2026,"Flexible hours, especially on Fridays, are helpful."
+E131,Leila Nguyen,Engineering,Minneapolis,140500,26,10,"Oct 09, 2026",Fewer meetings would help me focus.
+E132,Maya Nguyen,Finance,Austin,116500,11,6,11-01-2026,Onboarding was smooth.
+E133,Noah Nguyen,marketing,Chicago,"$121,000",,7,2026-10-20,
+E134,omar nguyen,Human Resources,Austin,138000,12,3,10/19/2026,Fewer meetings would help me focus.
+E135,PRIYA NGUYEN,Engineering,Chicago,112000,27,2,"Oct 13, 2026",Fewer meetings would help me focus.
+E136,  Quinn Nguyen  ,Eng,new york,100000,2,8,09-20-2026,"Flexible hours, especially on Fridays, are helpful."
+E137,Ravi Nguyen,Human Resources,Austin,"$131,000",27,6,2026-09-11,Onboarding was smooth.
+E138,Sara Nguyen,Human Resources,Austin,117000,19,2,09/05/2026,More training would help.
+E139,Theo Nguyen,Human Resources, New York ,60500,14,3,"Sep 13, 2026","Flexible hours, especially on Fridays, are helpful."
+E140,zoe nguyen,Engineering,New York,89500,9,6,09-08-2026,We need clearer promotion criteria.
+E141,ASHA PATEL,Marketing,Chicago,"$79,000",13,10,2026-11-07,Supportive team.
+E142,  Ben Patel  ,Finance, New York ,127000,15,10,10/01/2026,Supportive team.
+E143,Clara Patel,Finance,Austin,129500,14,5,"Oct 03, 2026",
+E144,Diego Patel,Marketing,Minneapolis,134500,5,2,11-09-2026,Fewer meetings would help me focus.
+E145,Farah Patel,HR,austin,"$106,000",6,7,2026-10-09,Fewer meetings would help me focus.
+E146,grace patel,Engineering,Chicago,96500,11,10,11/13/2026,"Flexible hours, especially on Fridays, are helpful."
+E147,HANA PATEL,Human Resources,New York,154000,8,1,"Oct 21, 2026",
+E148,  Ivan Patel  ,OPERATIONS,Minneapolis,125500,7,4,10-16-2026,"Flexible hours, especially on Fridays, are helpful."
+E149,Jia Patel,Finance,New York,"$128,000",9,8,2026-09-06,
+E150,Kai Patel,Operations,Minneapolis,141500,2,5,09/17/2026,We need clearer promotion criteria.
+E151,Leila Patel,Marketing,Chicago,148500,28,6,"Nov 09, 2026","Flexible hours, especially on Fridays, are helpful."
+E152,maya patel,Finance,Minneapolis,153500,30,5,11-01-2026,We need clearer promotion criteria.
+E153,NOAH PATEL,Engineering,Austin,"$57,500",24,4,2026-09-19,Onboarding was smooth.
+E154,  Omar Patel  ,OPERATIONS, New York ,49500,17,2,10/04/2026,Fewer meetings would help me focus.
+E155,Priya Patel,Human Resources,Minneapolis,122500,26,6,"Oct 19, 2026",
+E156,Quinn Patel,Finance,Austin,51000,10,10,11-11-2026,More training would help.
+E157,Ravi Patel,Eng,Minneapolis,"$62,500",1,1,2026-09-18,"Flexible hours, especially on Fridays, are helpful."
+E158,sara patel,Marketing,New York,60000,28,9,10/01/2026,Supportive team.
+E159,THEO PATEL,Marketing,Austin,95000,13,,"Nov 09, 2026",Supportive team.
+E160,  Zoe Patel  ,Marketing,austin,83500,22,6,09-05-2026,More training would help.
+E161,Asha Reed,Marketing,Austin,"$78,000",3,6,2026-10-17,We need clearer promotion criteria.
+E162,Ben Reed,Engineering,Austin,83000,30,2,09/25/2026,Fewer meetings would help me focus.
+E163,Clara Reed,engineering,New York,148500,7,3,"Oct 13, 2026",More training would help.
+E164,diego reed,Engineering,Chicago,123000,26,4,09-28-2026,We need clearer promotion criteria.
+E165,FARAH REED,Finance,New York,"$83,000",4,9,2026-09-19,"Flexible hours, especially on Fridays, are helpful."
+E166,  Grace Reed  ,Finance,new york,49500,25,4,10/16/2026,We need clearer promotion criteria.
+E167,Hana Reed,Engineering,Chicago,81500,4,7,"Sep 07, 2026",
+E168,Ivan Reed,Engineering,Austin,105000,16,10,10-17-2026,
+E169,Jia Reed,Marketing,NYC,"$106,500",1,8,2026-09-04,Onboarding was smooth.
+E170,kai reed,Marketing,New York,110500,2,2,10/27/2026,We need clearer promotion criteria.
+E171,LEILA REED,Operations,Chicago,56000,8,10,"Sep 17, 2026",We need clearer promotion criteria.
+E172,  Maya Reed  ,marketing,austin,60500,27,9,09-15-2026,More training would help.
+E173,Noah Reed,Marketing,Austin,"$77,000",10,8,2026-10-23,Onboarding was smooth.
+E174,Omar Reed,Marketing,New York,88000,10,5,10/25/2026,We need clearer promotion criteria.
+E029,Priya Reed,finance,New York,154000,2,7,"Sep 11, 2026",
+E176,quinn reed,Human Resources,Chicago,119000,18,9,09-08-2026,We need clearer promotion criteria.
+E177,RAVI REED,Engineering,Austin,"$93,000",27,1,2026-10-25,"Flexible hours, especially on Fridays, are helpful."
+E178,  Sara Reed  ,OPERATIONS,Minneapolis,121500,6,3,11/04/2026,Fewer meetings would help me focus.
+E179,Theo Reed,Finance,New York,92500,11,2,"Nov 11, 2026","Flexible hours, especially on Fridays, are helpful."
+E180,Zoe Reed,Operations,Chicago,151000,27,9,10-25-2026,
+E181,Asha Wilson,OPERATIONS,new york,"$82,500",29,6,2026-10-10,We need clearer promotion criteria.
+E182,ben wilson,Engineering,Chicago,66000,21,7,11/12/2026,
+E183,CLARA WILSON,Finance,New York,59500,6,7,"Nov 07, 2026",Onboarding was smooth.
+E184,  Diego Wilson  ,marketing,chicago,87500,24,10,10-12-2026,
+E185,Farah Wilson,Engineering,Chicago,"$68,000",21,2,2026-09-07,"Flexible hours, especially on Fridays, are helpful."
+E186,Grace Wilson,Marketing,Austin,110000,13,5,10/27/2026,More training would help.
+E187,Hana Wilson,Operations,Minneapolis,62000,21,10,"Oct 07, 2026",Fewer meetings would help me focus.
+E188,ivan wilson,Operations,Minneapolis,53500,12,10,09-29-2026,
+E189,JIA WILSON,Engineering,Chicago,"$86,500",24,3,2026-09-28,"Flexible hours, especially on Fridays, are helpful."
+E043,Clara Garcia,finance,new york,95000,5,8,"Oct 07, 2026","Flexible hours, especially on Fridays, are helpful."
+E191,Leila Wilson,Operations,Chicago,112000,26,6,"Nov 11, 2026",
+E192,Maya Wilson,Marketing,New York,103500,14,2,09-03-2026,We need clearer promotion criteria.
+E193,Noah Wilson,OPERATIONS,austin,"$85,000",12,1,2026-09-15,We need clearer promotion criteria.
+E194,omar wilson,Finance,Austin,154000,2,7,10/17/2026,
+E195,PRIYA WILSON,Finance,Austin,123000,16,2,"Oct 22, 2026",Onboarding was smooth.
+E196,  Quinn Wilson  ,HR,chicago,147500,2,9,09-22-2026,
+E197,Ravi Wilson,Operations,Chicago,"$147,000",11,3,2026-10-15,More training would help.
+E198,Sara Wilson,Engineering,Chicago,80500,5,10,09/26/2026,Supportive team.
+E078,Sara Iyer,Marketing,New York,93000,24,7,10/09/2026,Onboarding was smooth.
+E200,zoe wilson,Operations,Minneapolis,128000,4,8,10-11-2026,
