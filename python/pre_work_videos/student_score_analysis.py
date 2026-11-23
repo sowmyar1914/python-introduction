@@ -1,4 +1,4 @@
-"""Student Score Analysis - beginner-friendly pandas assignment."""
+"""Student Score Analysis -pandas assignment."""
 
 import pandas as pd
 
